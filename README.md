@@ -59,9 +59,9 @@ Production-ready • Zero dependencies • Material 3 • Responsive • Elegant
 |---|---|---|
 | ![](screenshots/13.png) | ![](screenshots/14.png) | ![](screenshots/15.png) |
 
-| 16 | 17 |
-|---|---|
-| ![](screenshots/16.png) | ![](screenshots/17.png) |
+| 16 | 17 | 18 |
+|---|---|---|
+| ![](screenshots/16.png) | ![](screenshots/17.png) | ![](screenshots/7.png) |
 
 ---
 
