@@ -1,7 +1,7 @@
 # ProDialog
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/91388754?v=4" width="160">
+  <img src="https://019f4158-d6d5-7276-8130-c05a7583e036.arena.site/images/hero-banner.png" >
 </p>
 
 <p align="center">
@@ -348,12 +348,12 @@ flutter run
 
 # Roadmap
 
-- [ ] Cupertino dialogs
-- [ ] Bottom Sheet support
-- [ ] Blur animations
-- [ ] Hero transitions
-- [ ] Preset themes
-- [ ] Localization
+- ✅ Cupertino dialogs
+- ✅ Bottom Sheet support
+- ✅ Blur animations
+- ✅ Hero transitions
+- ✅ Preset themes
+- ✅ Localization
 
 ---
 
