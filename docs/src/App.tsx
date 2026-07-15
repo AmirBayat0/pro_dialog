@@ -251,7 +251,7 @@ export default function App() {
             ))}
           </nav>
           <div className="flex items-center gap-2">
-            <a href="https://pub.dev" target="_blank" rel="noopener noreferrer"
+            <a href="https://pub.dev/packages/pro_dialog" target="_blank" rel="noopener noreferrer"
               className="hidden sm:flex items-center gap-2 px-4 py-1.5 rounded-full bg-slate-900 text-white text-sm font-bold hover:bg-slate-700 transition-colors">
               <span>pub.dev</span><span>↗</span>
             </a>
@@ -1291,7 +1291,7 @@ showProDialog(
                 <a href="#quickstart" className="px-6 py-2.5 rounded-full bg-gradient-to-r from-violet-500 to-cyan-500 text-white font-black text-sm hover:opacity-90 transition shadow-lg">
                   🚀 Quick Start Guide
                 </a>
-                <a href="https://pub.dev" target="_blank" rel="noopener noreferrer" className="px-6 py-2.5 rounded-full bg-white/10 border border-white/20 text-white font-bold text-sm hover:bg-white/20 transition">
+                <a href="https://pub.dev/packages/pro_dialog" target="_blank" rel="noopener noreferrer" className="px-6 py-2.5 rounded-full bg-white/10 border border-white/20 text-white font-bold text-sm hover:bg-white/20 transition">
                   📦 View on pub.dev ↗
                 </a>
               </div>
@@ -1314,8 +1314,8 @@ showProDialog(
           </div>
           <p>Built with ❤️ for the Flutter community · © 2024 ProDialog Contributors</p>
           <div className="flex items-center gap-4">
-            <a href="https://pub.dev" target="_blank" rel="noopener noreferrer" className="hover:text-violet-600 font-semibold transition-colors">pub.dev ↗</a>
-            <a href="https://dart.dev/tools/pub/publishing" target="_blank" rel="noopener noreferrer" className="hover:text-violet-600 font-semibold transition-colors">Docs ↗</a>
+            <a href="https://pub.dev/packages/pro_dialog" target="_blank" rel="noopener noreferrer" className="hover:text-violet-600 font-semibold transition-colors">pub.dev ↗</a>
+            <a href="https://pub.dev/documentation/pro_dialog/latest/" target="_blank" rel="noopener noreferrer" className="hover:text-violet-600 font-semibold transition-colors">Docs ↗</a>
           </div>
         </div>
       </footer>
