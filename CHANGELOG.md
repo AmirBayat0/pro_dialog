@@ -1,8 +1,5 @@
 # Changelog
 
-## 1.0.1
+## 1.0.6
 
-- Improved documentation
-- Updated README
-- Added documentation website
-- Minor fixes
+- addn exmaple

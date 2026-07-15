@@ -241,7 +241,7 @@ export default function App() {
           <div className="flex items-center gap-3">
             <div className="w-8 h-8 rounded-xl bg-gradient-to-br from-violet-600 to-cyan-500 flex items-center justify-center text-white font-black text-sm shadow-lg shadow-violet-200">P</div>
             <span className="font-black text-slate-800 text-lg tracking-tight">ProDialog</span>
-            <Badge color="violet">v1.0.0</Badge>
+            <Badge color="violet">v1.0.6</Badge>
           </div>
           <nav className="hidden md:flex items-center gap-1">
             {["overview","features","installation","examples","api-reference"].map(id => (
@@ -377,7 +377,7 @@ export default function App() {
 
           {/* ── FEATURES ── */}
           <section id="features">
-            <SectionHeading id="features" sub="A complete feature matrix for ProDialog v1.0.0.">
+            <SectionHeading id="features" sub="A complete feature matrix for ProDialog v1.0.6.">
               ✨ Features
             </SectionHeading>
             <div className="grid md:grid-cols-2 gap-3 mb-8">
@@ -422,7 +422,7 @@ export default function App() {
                 <CodeBlock filename="pubspec.yaml" lang="yaml" code={`dependencies:
   flutter:
     sdk: flutter
-  pro_dialog: ^1.0.0`} />
+  pro_dialog: ^1.0.6`} />
               </div>
 
               <div>
@@ -1196,7 +1196,7 @@ showProDialog(
             <div className="space-y-4">
               {[
                 {
-                  version: "1.0.0",
+                  version: "1.0.6",
                   date: "2024",
                   badge: "Latest",
                   badgeColor: "green",
@@ -1308,7 +1308,7 @@ showProDialog(
             <div className="w-6 h-6 rounded-lg bg-gradient-to-br from-violet-600 to-cyan-500 flex items-center justify-center text-white font-black text-xs">P</div>
             <span className="font-bold text-slate-700">ProDialog</span>
             <span className="text-slate-300">·</span>
-            <span>v1.0.0</span>
+            <span>v1.0.6</span>
             <span className="text-slate-300">·</span>
             <span>MIT License</span>
           </div>

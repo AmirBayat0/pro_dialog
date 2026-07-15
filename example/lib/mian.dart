@@ -74,7 +74,7 @@ class ProDialogDemoHome extends StatelessWidget {
               style: TextStyle(fontWeight: FontWeight.w800, fontSize: 18),
             ),
             Text(
-              'Flutter Dialog Package · v1.0.0',
+              'Flutter Dialog Package · v1.0.6',
               style: TextStyle(fontSize: 11, fontWeight: FontWeight.w400),
             ),
           ],
@@ -665,7 +665,7 @@ class ProDialogDemoHome extends StatelessWidget {
           // ── Footer note ───────────────────────────────────────────────────
           Center(
             child: Text(
-              'ProDialog v1.0.0 · MIT License\n'
+              'ProDialog v1.0.6 · MIT License\n'
               'Zero external dependencies · Works on all Flutter platforms',
               textAlign: TextAlign.center,
               style: TextStyle(
