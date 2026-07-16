@@ -1,6 +1,6 @@
 // ╔══════════════════════════════════════════════════════════════════════════╗
 // ║                    ProDialog — Flutter Dialog Package                    ║
-// ║           Animated · Customizable · Production-Ready · v1.0.6            ║
+// ║           Animated · Customizable · Production-Ready · v            ║
 // ║                                                                          ║
 // ║  A beautiful, highly reusable, animated dialog framework for Flutter.    ║
 // ║  Drop into any project — zero external dependencies required.            ║

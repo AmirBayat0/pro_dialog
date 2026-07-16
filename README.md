@@ -112,11 +112,7 @@ Visit the documentation website:
 * ❤️ Designed for Production Apps
 
 ---
-## 📸 Preview
 
-Explore ProDialog's beautiful animations, themes, and customization options.
-
----
 
 # 📸 Preview
 
@@ -165,6 +161,7 @@ Explore ProDialog's beautiful animations, themes, and customization options.
 </p>
 
 ---
+
 
 # 🏆 Comparison
 
@@ -220,7 +217,7 @@ Add the package to your `pubspec.yaml`
 
 ```yaml
 dependencies:
-  pro_dialog: ^1.0.6
+  pro_dialog: ^1.0.9
 ```
 
 Install packages

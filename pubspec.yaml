@@ -1,6 +1,6 @@
 name: pro_dialog
 description: A beautiful animated customizable Flutter dialog package.
-version: 1.0.6
+version: 1.0.9
 homepage: https://pro-dialog.vercel.app/
 repository: https://github.com/AmirBayat0/pro_dialog
 issue_tracker: https://github.com/AmirBayat0/pro_dialog/issues
@@ -25,6 +25,9 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
 
 
 screenshots:

@@ -1,7 +1,7 @@
 // ignore_for_file: deprecated_member_use
 
 import 'package:flutter/material.dart';
-import 'package:pro_dialog/src/pro_dialog.dart';
+import 'package:pro_dialog/pro_dialog.dart';
 // ─────────────────────────────────────────────────────────────────────────────
 // DEMO APPLICATION
 // ─────────────────────────────────────────────────────────────────────────────
@@ -33,7 +33,7 @@ class _ProDialogDemoAppState extends State<ProDialogDemoApp> {
       debugShowCheckedModeBanner: false,
       themeMode: _themeMode,
       theme: ThemeData(
-        useMaterial3: true,
+        // useMaterial3: true,
         brightness: Brightness.light,
         colorScheme: ColorScheme.fromSeed(
           seedColor: const Color(0xFF6C63FF),
@@ -74,7 +74,7 @@ class ProDialogDemoHome extends StatelessWidget {
               style: TextStyle(fontWeight: FontWeight.w800, fontSize: 18),
             ),
             Text(
-              'Flutter Dialog Package · v1.0.6',
+              'Flutter Dialog Package · v1.0.7',
               style: TextStyle(fontSize: 11, fontWeight: FontWeight.w400),
             ),
           ],
@@ -283,7 +283,7 @@ class ProDialogDemoHome extends StatelessWidget {
 
           // ── Section: Animations ───────────────────────────────────────────
           _SectionHeader(
-            title: '✨ Animation Styles',
+            title: 'Animation Styles',
             subtitle: 'Choose how dialogs enter the screen',
             isDark: isDark,
           ),
@@ -665,7 +665,7 @@ class ProDialogDemoHome extends StatelessWidget {
           // ── Footer note ───────────────────────────────────────────────────
           Center(
             child: Text(
-              'ProDialog v1.0.6 · MIT License\n'
+              'ProDialog v1.0.9 · MIT License\n'
               'Zero external dependencies · Works on all Flutter platforms',
               textAlign: TextAlign.center,
               style: TextStyle(

@@ -1,5 +1,5 @@
 # Changelog
 
-## 1.0.6
+## 1.0.9
 
-- addn exmaple
+- example added!
